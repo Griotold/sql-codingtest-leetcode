@@ -1,0 +1,29 @@
+# IntelliJ IDEA specific files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Logs
+/log/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+/out/
+/build/
+/target/
+
+# Dependency directories
+/node_modules/
+/.gradle/
+/.mvn/
+
+# Other
+*.class
+*.jar
+*.war
+*.ear
